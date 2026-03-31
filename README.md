@@ -43,13 +43,14 @@ This project combines **information retrieval** and **large language models (LLM
 
 1. Clone the Repository
 git clone https://github.com/Dhanshri1705/ML_Chatbot.git
+
 cd ML_Chatbot
 
-2. Create Virtual Environment
+3. Create Virtual Environment
 python -m venv venv
 venv\Scripts\activate   # For Windows
 
-3. Install Dependencies
+4. Install Dependencies
 pip install -r requirements.txt
 
 5. Run the Application
